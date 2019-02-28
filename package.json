@@ -1,0 +1,5 @@
+{
+  "name": "@stakx/npm-install-incomplete-demo",
+  "version": "1.0.0",
+  "description": "Attempts to reproduce incomplete NPM package installs."
+}
